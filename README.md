@@ -1,4 +1,4 @@
-## Hi there 👋 I'am SHIVAM DAS
+## Hi there 👋 I'm SHIVAM DAS
 
 <!--
 **shivamdas-codes/shivamdas-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
